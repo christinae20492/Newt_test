@@ -1,0 +1,29 @@
+body{
+    color: rgb(255, 251, 246);
+}
+wrapper{
+    max-width: 80%;
+}
+nav {
+    display: block;
+    background-color: rgb(49, 34, 2);
+    height: 7em;
+}
+#smallimg{
+    width: 8.3%;
+    display: inline;
+    float: left;
+    
+}
+ul{
+    margin: 0 auto;
+}
+ul li{
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    width: 9em;
+    color: pink;
+    margin: 0 auto;
+    padding: 5%;
+}
